@@ -33,4 +33,4 @@ From there, your predicted profit will be shown below and the institute that pro
 
 ## Licence
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/ahmedelnaggar1/Investment-Advisor/blob/master/LICENSE)
